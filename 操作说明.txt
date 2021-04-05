@@ -1,0 +1,4 @@
+faceGUI.m 为主界面程序
+recognize.m 为识别人脸的界面程序
+FastBPfacedetection.m 为导入数据并训练的程序
+BP.m为BP神经网络的程序
